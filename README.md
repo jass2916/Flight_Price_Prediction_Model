@@ -85,3 +85,4 @@ performance metrics and visualizations available in the notebook.
 
 This README corresponds to the project in
 `Flight_Price_Prediction_Model.ipynb`.
+Jaskaran Singh
